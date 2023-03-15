@@ -1,2 +1,2 @@
 # JUEGO_PIEDRA-PAPEL-Y-TIJERA
-Programa para jugar PIEDRA,PAPEL Y TIJERA
+Programa para simular JUEGO_PIEDRA,PAPEL Y TIJERA
